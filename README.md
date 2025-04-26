@@ -1,6 +1,4 @@
-; #############################
-; # SUPER CRYPTO COMMUNICATOR #
-; #############################
+SUPER CRYPTO COMMUNICATOR
 
 Hello there !
 Wanna see a cool thing ?
